@@ -1,0 +1,22 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+
+    	{{ $base := . }}
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ $base.Site.BaseURL }}{{ . }}"> {{ end }}
+
+        <h1>{{ .Site.Params.Welcome }}</h1>
+
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+
+        <p>&nbsp;</p>
+
+        <p>{{ markdownify .Site.Params.Intro }}</p>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
