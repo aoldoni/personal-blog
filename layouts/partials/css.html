@@ -13,11 +13,11 @@
 </style>
 
 <!-- main -->
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
 
 <!-- custom -->
 {{ $base := . }}
-{{ range .Site.Params.css }} <link rel="stylesheet" href="{{ $base.Site.BaseURL }}{{ . }}"> {{ end }}
+{{ range .Site.Params.css }} <link rel="stylesheet" href="{{ $base.Site.BaseURL }}/{{ . }}"> {{ end }}
 
 <!-- google fonts -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ .Site.Params.font }}">
