@@ -1,0 +1,19 @@
+#!/bin/bash
+
+GIT_REPO=$HOME/my-website.git
+WORKING_DIRECTORY=$HOME/my-website-working
+PUBLIC_WWW=$HOME/public_html
+BACKUP_WWW=$HOME/backup_html
+MY_DOMAIN=www.aoldoni.com
+
+set -e
+
+rm -rf $WORKING_DIRECTORY
+rsync -aqz $PUBLIC_WWW/ $BACKUP_WWW
+trap "echo 'A problem occurred.  Reverting to backup.'; rsync -aqz --del $BACKUP_WWW/ $PUBLIC_WWW; rm -rf $WORKING_DIRECTORY" EXIT
+
+git clone --recursive $GIT_REPO $WORKING_DIRECTORY
+rm -rf $PUBLIC_WWW/*
+hugo -s $WORKING_DIRECTORY -d $PUBLIC_WWW -b "http://${MY_DOMAIN}/"
+rm -rf $WORKING_DIRECTORY
+trap - EXIT
