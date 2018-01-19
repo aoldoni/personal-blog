@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Alisson Oldoni's personal website"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
-#googleAnalytics = ""
+googleAnalytics = "UA-112753163-1"
 
 [params]
     author = "Alisson Oldoni"
