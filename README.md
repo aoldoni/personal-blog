@@ -1,6 +1,6 @@
 # Welcome
 
-This is the repository for my personal website. It was done using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal).
+This is the repository for my personal website at [https://aoldoni.com/](https://aoldoni.com/). It was done using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal).
 
 Notes to self:  
 - Add a regular and a "bare" git repository in production server.  
