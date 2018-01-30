@@ -54,6 +54,7 @@ a:hover {
 
 .item-tag {
     background-color: var(--accent);
+    display:inline-block;
 }
 
 /*navigation bar icons*/
