@@ -10,7 +10,7 @@ googleAnalytics = "UA-112753163-1"
     welcome = "Alisson Oldoni's"
     #profilePic = "Martin-138.jpg"
     description = "personal website... Welcome!"
-    intro = "I am interested in [computer science & software engineering](/cs/), and [team and business management](/management/). You can know more about me [here](/cv/) and [here](/about-me/)."
+    intro = "You can know more about me [here](/cv/) and [here](/about-me/)."
     githubUsername = "aoldoni"
     accent = "darkred"
     showBorder = true
@@ -19,38 +19,33 @@ googleAnalytics = "UA-112753163-1"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["python", "php", "java"]
-    css = ["css/intro.css"]
+    css = ["css/intro.css", "css/text.css"]
     copyright = "&copy; Alisson Oldoni. All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)."
 
 [[menu.main]]
     url = "/"
-    name = "Introduction"
+    name = "Index"
     weight = 1
 
 [[menu.main]]
+    url = "/writings/"
+    name = "Writings"
+    weight = 2
+    
+[[menu.main]]
     url = "/cv/"
     name = "Curriculum Vitæ"
-    weight = 2
-
-[[menu.main]]
-    url = "/cs/"
-    name = "Computer Science"
     weight = 3
-
-[[menu.main]]
-    url = "/management/"
-    name = "Management"
-    weight = 4
 
 [[menu.main]]
     url = "/music/"
     name = "Music"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     url = "/about-me/"
     name = "About me"
-    weight = 6
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -75,3 +70,7 @@ googleAnalytics = "UA-112753163-1"
     url = "https://www.linkedin.com/in/aoldoni/"
     name = "linkedin"
     weight = 4
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
