@@ -4,8 +4,6 @@ description: " "
 draft: false
 ---
 
-One of my main not-technology-related passions is music.
-  
 I have 2 bass guitars:
 
 {{< figure src="/images/WarwickCorvetteFNA.jpeg" title="A German Warwick Corvette FNA." class="text-center" >}}
@@ -15,12 +13,10 @@ I have 2 bass guitars:
   
 {{< figure src="/images/FenderJaguar.jpg" title="A Japanese Fender Jaguar." class="text-center" >}}
   
-These basses are great, but I still believe one day I will be able to afford a Warwick Streamer Stage II.
-  
   &nbsp;  
   
 I also have a few pedals and some recording equipment:
-
+  
 {{< figure src="/images/pedals.jpg" title="A Boss ME-6B, a Boss DF-2, a Boss CS-3, a Boss LS-2 and a Jim Dunlop Bass Wah." class="text-center" >}}
   
   &nbsp;  
@@ -31,5 +27,5 @@ I also have a few pedals and some recording equipment:
   &nbsp;  
   &nbsp;  
   
-Sometimes some very kind people allow me to play with them. In some extreme cases, these very kind people also record music together with me. Below is a list of music I played bass guitar on.
+Sometimes some very kind people allow me to play with them. In some cases, these very kind people also record music together with me. Below is a list of music I played bass guitar on.
   

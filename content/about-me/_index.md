@@ -4,8 +4,8 @@ description: " "
 draft: false
 ---
 
-My name is Alisson Oldoni and I currently live in Sydney, Australia.
+Alisson Oldoni is a Software Developer and Technical Manager from Brazil, currently living in Sydney (Australia).
 
-{{< figure src="/images/Martin-138.jpg" title="Hint: I'm not the baby." class="text-center" >}}
+{{< figure src="/images/Martin-138.jpg" title="Hint: I'm holding the baby." class="text-center" >}}
 
-My family is what I hold dearest.
+Please contact me at:
