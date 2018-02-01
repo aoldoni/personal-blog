@@ -89,16 +89,16 @@ If this practice starts to become commonplace, it is possible to see that Magent
 
 Other examples come from within Magento, specially from it's scheduled tasks (or cronjobs). A lot of these tasks are really, in my view, more suited to be events/messages to be queued and processed asynchronously. Some examples are:
 
-* Email sending
-* Product indexing
-* Cache invalidation for a given product
+* Email sending, currently done as a cron task.
+* Product indexing, currently done as a cron task.
+* Cache invalidation for a given product, currently done as an event.
 
 
 ## Current status
 
-I brought a much less polished version of the above arguments to the Magento Software Architect Eugene Tulika[^12] - a very nice guy. He kindly took this on-board within the Magento product team, and a decision was made to allow a move of the AMPQ implementation using MySQL as a storage into the community version[^13]. The interfaces and behaviour would be the same as if RabbitMQ was being used. That was a "good enough" decision, that solved a large amount of the above points, if not all. When migrating into the Enterprise version, one would simply point the event stream form MySQL to RabbitMQ via configuration, after draining all remaining events from MySQL.
+I brought a much less polished version of the above arguments to the Magento Software Architect Eugene Tulika[^12] - a very nice guy - via Slack. He kindly took this on-board within the Magento product team, and a decision was made to allow a move of the AMPQ implementation using MySQL as a storage into the community version[^13]. The interfaces and behaviour would be the same as if RabbitMQ was being used. That was a "good enough" decision, that solved a large amount of the above points. When migrating into the Enterprise version, one would simply point the event stream form MySQL to RabbitMQ via configuration, after draining all remaining events from MySQL.
 
-So, this post went all over the place a bit, but I believe it comes to show how Magento is an continuously evolving platform, and how welcoming the Magento Community Engineering group is, and how easy it is to engage with them. It's not by accident that Magento was the most contributed to PHP repository from last year[^14].
+So, this post went all over the place a bit, but I believe it comes to show how Magento is an continuously evolving platform, how welcoming the Magento Community Engineering group is, and how easy it is to engage with them. It's not by accident that Magento was the most contributed to PHP repository from last year[^14].
 
 This initiative also gained its own channel in the Magento Slack[^15][^16], the #message-queue-to-ce channel. It's currently up for grabs.
 

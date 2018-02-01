@@ -38,6 +38,8 @@
             {{ $spread := sub $max $min }}
             {{ $fontStep := div $fontSpread $spread }}
             
+            <br />
+            
             <p>For more granularity, please filter by tags:</p>
             <div id="tag-cloud" style="padding: 5px 15px">
                 {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
