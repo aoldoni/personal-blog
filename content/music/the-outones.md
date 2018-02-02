@@ -85,6 +85,6 @@ Bass: Alisson Oldoni
 Vocals: Rafael Bolda  
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
-Recording: Daniel Cajal (Milkie Studio)  
+Recording/Producer/Mixing: Daniel Cajal (Milkie Studio)  
   
 

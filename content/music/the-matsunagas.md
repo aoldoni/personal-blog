@@ -85,5 +85,5 @@ Bass: Alisson Oldoni
 Vocals: Marcio Rocha  
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
-Recording: Gabriel Reinert (Silver Tape Studio)  
+Recording/Producer/Mixing: Gabriel Reinert (Silver Tape Studio)  
   

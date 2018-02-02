@@ -236,5 +236,5 @@ Bass: Alisson Oldoni
 Vocals: Rafael Bolda  
 Drums: Rodrigo Pilatti  
 All lyrics by: Gustavo Seeling  
-Recording: Juan Manuel Perez (Giant Steps Studio)  
+Recording/Producer/Mixing: Juan Manuel Perez (Giant Steps Studio)  
   

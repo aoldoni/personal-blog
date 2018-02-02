@@ -8,4 +8,8 @@ Alisson Oldoni is a Software Developer and Technical Manager from Brazil, curren
 
 {{< figure src="/images/Martin-138.jpg" title="Hint: I'm holding the baby." class="text-center" >}}
 
-Please contact me at:
+Please contact me at:  
+
+* aoldoni@gmail.com  
+* [https://www.linkedin.com/in/aoldoni/](https://www.linkedin.com/in/aoldoni/)  
+* [https://www.twitter.com/aoldoni](https://www.twitter.com/aoldoni)  

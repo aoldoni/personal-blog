@@ -1,6 +1,6 @@
 ---
 title: "Encouraging the use of Message Queuing Systems in Magento"
-description: "A needed change of heart in architectural approaches in the Magento world for integrations and events streams."
+description: ""
 tags: ["magento", "software architecture", "rabbitmq", "message queuing systems", "performance engineering"]
 categories: [ "Computer Science" ]
 draft: false

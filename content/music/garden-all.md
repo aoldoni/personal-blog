@@ -104,5 +104,5 @@ Bass: Alisson Oldoni
 Vocals: Rafael Bolda  
 Drums: Rodrigo Pilatti  
 Sem Lembrar lyrics by: Alisson/Rodrigo  
-Recording: Alisson Oldoni  
+Recording/Producer/Mixing: Alisson Oldoni  
   

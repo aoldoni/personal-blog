@@ -237,5 +237,5 @@ Bass: Alisson Oldoni
 Vocals: Dado Vasconcellos  
 Drums: Fábio Luiz Colzani  
 All lyrics by: Fábio Luiz Colzani  
-Recording: Ricardo Vidal (Studio 55)  
+Recording/Producer/Mixing: Ricardo Vidal (Studio 55)  
   
