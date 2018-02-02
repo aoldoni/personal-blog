@@ -211,14 +211,14 @@ date: 2005-04-02
                 "name": "Finjo Não Te Ouvir",
                 "artist": "Latitude Zero",
                 "album": "Latitude Zero",
-                "url": "/audio/latitude-zero/08_-_Latitude_Zero_-_Finjo_Não_Te_Ouvir.mp3",
+                "url": "/audio/latitude-zero/08_-_Latitude_Zero_-_Finjo_Não_Te_Ouvir.mp3",
                 "cover_art_url": "/images/music/Latitude_Zero.jpg"
             },
             {
                 "name": "De Onde Tudo Começou",
                 "artist": "Latitude Zero",
                 "album": "Latitude Zero",
-                "url": "/audio/latitude-zero/09_-_Latitude_Zero_-_De_Onde_Tudo_Começou.mp3",
+                "url": "/audio/latitude-zero/09_-_Latitude_Zero_-_De_Onde_Tudo_Começou.mp3",
                 "cover_art_url": "/images/music/Latitude_Zero.jpg"
             },
         ]
