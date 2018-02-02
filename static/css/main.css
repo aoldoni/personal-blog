@@ -4,9 +4,10 @@ html, body {
 
 body {
     padding-top: 55px;
-    display: flex;
+    /* display: flex; */
     text-align: center;
     flex-direction: column;
+    word-wrap: break-word;
 }
 
 main {
@@ -14,12 +15,16 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
+    
+    /* footer fix */
+    min-height: 100%;
+    margin-bottom: -44px; 
 }
 
 /*footer*/
 
 .copyright {
-    margin: 15px 0;
+    margin-bottom: 0px;
 }
 
 /*apply accent colour to links*/
@@ -55,6 +60,7 @@ a:hover {
 .item-tag {
     background-color: var(--accent);
     display:inline-block;
+    margin:3px;
 }
 
 /*navigation bar icons*/
@@ -76,6 +82,12 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+    /* position: absolute; */
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top:15px;
+    height: 44px;
 }
 
 img {

@@ -6,8 +6,7 @@ draft: false
 date: 2015-04-02
 ---
 
-
-<div class="row">
+<div class="player">
     <div class="large-6 medium-6 small-12 columns" id="amplitude-left">
         <img amplitude-song-info="cover_art_url" amplitude-main-song-info="true"/>
         <div id="player-left-bottom">

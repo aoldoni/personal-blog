@@ -1,0 +1,45 @@
+/*home page*/
+.intro {
+    transform: translateY(10vh);
+}
+
+.intro > h1 {
+    color: #212121;
+    font-size: 12vh;
+}
+
+.intro > h2 {
+    color: #757575;
+    font-size: 3vmin;
+}
+
+.intro > .profile {
+    height: 40vh;
+}
+
+/* cv */
+@media (max-width: 767px) {
+    .curriculumvitCA {
+        font-size: 10px;
+    }
+    .subtext {
+        font-size: 9px !important;
+    }
+}
+
+/* text */
+.subtext {
+    text-indent: 15px;
+    font-size: 12px;
+    /* display:inline-block; */
+}
+
+.copyright {
+    font-size: 10px;
+}
+
+/* player */
+.player {
+    max-width: 400px;
+    margin: 0 auto;
+}

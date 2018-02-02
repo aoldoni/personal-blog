@@ -19,7 +19,7 @@ googleAnalytics = "UA-112753163-1"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["python", "php", "java"]
-    css = ["css/intro.css", "css/text.css", "css/player.css"]
+    css = ["css/pages.css", "css/player.css"]
     js = ["js/amplitude.js", "js/player.js"]
     copyright = "&copy; Alisson Oldoni. All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)."
 

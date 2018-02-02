@@ -126,9 +126,9 @@ SEÁRA ; BENITTI ; RAABE, A. L. A. ; SCHLINDWEIN, L. M. ; VARGAS, A. ; FERNANDES
   
   
 **Magento Live**: What to Expect from Magento 2.0: Merchant & System Integrators Perspectives <span class="pull-right">2015</span>  
-<span class="subtext">&bull; Event: https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/</span>  
-<span class="subtext">&bull; Speaker bio: https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/</span>  
-<span class="subtext">&bull; Event highlights: https://www.youtube.com/watch?v=4_4XEt30pjA</span>  
+<span class="subtext">&bull; Event: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
+<span class="subtext">&bull; Speaker bio: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
+<span class="subtext">&bull; Event highlights: [link](https://www.youtube.com/watch?v=4_4XEt30pjA)</span>  
   
   &nbsp;  
   

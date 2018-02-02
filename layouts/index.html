@@ -10,8 +10,6 @@
         <h1>{{ .Site.Params.Welcome }}</h1>
 
         <h2>{{ markdownify .Site.Params.Description }}</h2>
-
-        <p>&nbsp;</p>
         
         {{ if not (eq (len $.Site.Taxonomies.categories) 0) }}
             {{ $.Scratch.Set "count" 0 }}
@@ -22,7 +20,7 @@
                         {{ $.Scratch.Add "count" 1 }}
                         <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize | lower }}</a>{{ if (lt ($.Scratch.Get "count") (sub $total 1)) }},{{ else if eq ($.Scratch.Get "count") (sub $total 1) }} and{{ else }}.{{ end }}
                     {{ end }}
-                    {{/* markdownify .Site.Params.Intro */}}
+                    {{/* markdownify .Site.Params.Intro */}} You may prefer a specific tag:
                 </p>
             </div>
         {{ end }}
@@ -38,9 +36,6 @@
             {{ $spread := sub $max $min }}
             {{ $fontStep := div $fontSpread $spread }}
             
-            <br />
-            
-            <p>For more granularity, please filter by tags:</p>
             <div id="tag-cloud" style="padding: 5px 15px">
                 {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
                     {{ $currentTagCount := len $taxonomy.Pages }}
