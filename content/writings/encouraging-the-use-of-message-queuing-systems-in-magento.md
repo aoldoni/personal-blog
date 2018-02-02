@@ -11,7 +11,7 @@ date: 2018-01-30
 
 The deployment of Magento as an ecommerce platform doesn't come without its challenges in regards to performance, scalability and optimisation. This is due to several platform characteristics, with a very limited list as follows:  
 
-* **A** - A monolithic codebase, with the template block rendering approach for the frontend being synchronous, rendering one template only after the previous one finishes.
+* **A** - A somewhat large codebase, with the template block rendering approach for the frontend being synchronous, rendering one template only after the previous one finishes.
 * **B** - High amount of repetitive synchronous requests to storage systems (database, cache), blocking code execution in the main process.
 * **C** - Synchronous API calls to external systems, blocking code execution in the main process.
 
