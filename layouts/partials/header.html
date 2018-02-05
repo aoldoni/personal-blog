@@ -11,6 +11,10 @@
         <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
         {{ end }}
         
+        <meta name="description" content="Alisson Oldoni's personal website"/>
+        <meta name="keywords" content="alisson,oldoni,computer science,software engineering,management,team management,technical management"/>
+        <meta name="robots" content="INDEX,FOLLOW"/>
+        
         {{ if .Site.GoogleAnalytics }}
         <!-- Global Site Tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
