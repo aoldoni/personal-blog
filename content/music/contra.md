@@ -162,14 +162,14 @@ date: 2010-01-30
                 "name": "Campeão",
                 "artist": "Contra",
                 "album": "Contra",
-                "url": "/audio/contra/01_-_Contra_-_Campeão.mp3",
+                "url": "/audio/contra/01_-_Contra_-_Campeao.mp3",
                 "cover_art_url": "/images/music/Contra.jpg"
             },
             {
                 "name": "Constituição",
                 "artist": "Contra",
                 "album": "Contra",
-                "url": "/audio/contra/02_-_Contra_-_Constituição.mp3",
+                "url": "/audio/contra/02_-_Contra_-_Constituicao.mp3",
                 "cover_art_url": "/images/music/Contra.jpg"
             },
             {
@@ -190,7 +190,7 @@ date: 2010-01-30
                 "name": "Não Tem Como Escapar",
                 "artist": "Contra",
                 "album": "Contra",
-                "url": "/audio/contra/05_-_Contra_-_Não_Tem_Como_Escapar.mp3",
+                "url": "/audio/contra/05_-_Contra_-_Nao_Tem_Como_Escapar.mp3",
                 "cover_art_url": "/images/music/Contra.jpg"
             },
             {
@@ -211,7 +211,7 @@ date: 2010-01-30
                 "name": "Óstia E Perdão",
                 "artist": "Contra",
                 "album": "Contra",
-                "url": "/audio/contra/08_-_Contra_-_Óstia_E_Perdão.mp3",
+                "url": "/audio/contra/08_-_Contra_-_Ostia_E_Perdao.mp3",
                 "cover_art_url": "/images/music/Contra.jpg"
             },
             {
