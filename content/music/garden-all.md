@@ -101,6 +101,7 @@ date: 2002-04-02
 Guitar: Cristiano Alves de Jesus  
 Bass: Alisson Oldoni  
 Vocals: Rafael Bolda  
+Backing Vocals: Rodrigo Pilatti  
 Drums: Rodrigo Pilatti  
 Sem Lembrar lyrics by: Alisson/Rodrigo  
 Recording/Producer/Mixing: Alisson Oldoni  

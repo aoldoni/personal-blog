@@ -82,6 +82,7 @@ date: 2015-04-02
 Guitar: Charles Boni  
 Bass: Alisson Oldoni  
 Vocals: Marcio Rocha  
+Backing Vocals: Rodrigo Pilatti  
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
 Recording/Producer/Mixing: Gabriel Reinert (Silver Tape Studio)  

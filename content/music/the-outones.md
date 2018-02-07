@@ -82,6 +82,7 @@ date: 2012-04-02
 Guitar: Charles Boni  
 Bass: Alisson Oldoni  
 Vocals: Rafael Bolda  
+Backing Vocals: Rodrigo Pilatti  
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
 Recording/Producer/Mixing: Daniel Cajal (Milkie Studio)  
