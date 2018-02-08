@@ -227,13 +227,12 @@ date: 2010-01-30
   
   &nbsp;  
   &nbsp;  
-  &nbsp;  
   
 #### Personnel
 
 Guitar: Gustavo Seeling  
 Bass: Alisson Oldoni  
-Vocals on "Raros Momentos": Rafael Bolda  and Rodrigo Lima (Dead Fish)
+Vocals on "Raros Momentos": Rafael Bolda and Rodrigo Lima (Dead Fish)  
 Vocals on all other songs: Rafael Bolda  
 Backing Vocals: Rodrigo Pilatti  
 Drums: Rodrigo Pilatti  

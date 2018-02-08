@@ -227,11 +227,10 @@ date: 2005-04-02
   
   &nbsp;  
   &nbsp;  
-  &nbsp;  
   
-#### Personnel
-
-Guitar: Julian Baretta Viel  
+#### Personnel  
+  
+Guitar: Tom Saboia / Julian Baretta Viel  
 Bass: Alisson Oldoni  
 Vocals: Dado Vasconcellos  
 Drums: Fábio Luiz Colzani  
