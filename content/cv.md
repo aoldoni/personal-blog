@@ -60,7 +60,7 @@ Master, Business Administration (MBA), Project Management
 **Universidade do Vale do Itajai**, Itajai, Brazil <span class="pull-right">2002 - 2006</span>  
 Bachelor, Computer Science  
 <span class="subtext">&bull; Research project *“Developing a pedagogical agent utilizing JClips“*, on Artificial Intelligence using Expert Systems.</span>  
-<span class="subtext">&bull; Brazilian Computer Society award.</span>  
+<span class="subtext">&bull; [Brazilian Computer Society award.](https://web.archive.org/web/20150811040754/http://www.sbc.org.br/index.php?option=com_content&view=article&id=208:aluno-destaque-2006-referente-ao-2o-semestre&catid=201:aluno-detaque&Itemid=143)</span>  
   
   &nbsp;  
   
@@ -99,11 +99,14 @@ MCD, Magento Certified Developer <span class="pull-right">2012</span>
   
   &nbsp;  
   
-#### **Professional Affiliations**  
+#### **Professional & Academic Affiliations**  
   
   
+**University of New South Wales Alumni** <span class="pull-right">2012</span>  
 **Scrum Alliance** <span class="pull-right">2013</span>  
-**PMI (Project Management Institute)** <span class="pull-right">2012</span>  
+**Scrum Alliance Member** <span class="pull-right">2013</span>  
+**PMI (Project Management Institute) Member** <span class="pull-right">2012</span>  
+**Fundacao Getulio Vargas Alumni** <span class="pull-right">2012</span>  
   
   &nbsp;  
   
@@ -122,17 +125,8 @@ SEÁRA ; BENITTI ; RAABE, A. L. A. ; SCHLINDWEIN, L. M. ; VARGAS, A. ; FERNANDES
   
   &nbsp;  
   
-#### **Public Talks**  
-  
-  
-**Magento Live**: What to Expect from Magento 2.0: Merchant & System Integrators Perspectives <span class="pull-right">2015</span>  
-<span class="subtext">&bull; Event: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
-<span class="subtext">&bull; Speaker bio: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
-<span class="subtext">&bull; Event highlights: [link](https://www.youtube.com/watch?v=4_4XEt30pjA)</span>  
-  
-  &nbsp;  
-  
 #### **Professional/Non-Credit Courses**  
+  
   
 **University of Sydney**, Sydney, Australia  
 Change Management <span class="pull-right">2014</span>  
@@ -161,5 +155,21 @@ FreeBSD: Installation, Use and Server Administration <span class="pull-right">20
 Digital and Analog Electronics <span class="pull-right">2001</span>  
 Computer Assembly and Maintenance <span class="pull-right">1999</span>  
   
+  &nbsp;  
+  
+#### **Public Talks**  
+  
+  
+**Magento Live**: What to Expect from Magento 2.0: Merchant & System Integrators Perspectives <span class="pull-right">2015</span>  
+<span class="subtext">&bull; Event: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
+<span class="subtext">&bull; Speaker bio: [link](https://web.archive.org/web/20151116072938/http://magentolive.com:80/au/speakers/)</span>  
+<span class="subtext">&bull; Event highlights: [link](https://www.youtube.com/watch?v=4_4XEt30pjA)</span>  
+  
+  &nbsp;  
+  
+#### **In the media**  
+  
+  
+[**CRN Australia**: Giving clients a reality check on digital rollouts](https://web.archive.org/web/20161016020509/http://www.crn.com.au/page/about)  
   &nbsp;  
   
