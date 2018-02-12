@@ -102,7 +102,7 @@ MCD, Magento Certified Developer <span class="pull-right">2012</span>
 #### **Professional & Academic Affiliations**  
   
   
-**University of New South Wales Alumni** <span class="pull-right">2012</span>  
+**University of New South Wales Alumni** <span class="pull-right">2016</span>  
 **Scrum Alliance Member** <span class="pull-right">2013</span>  
 **PMI (Project Management Institute) Member** <span class="pull-right">2012</span>  
 **Fundacao Getulio Vargas Alumni** <span class="pull-right">2012</span>  
