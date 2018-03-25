@@ -67,6 +67,9 @@ Bachelor, Computer Science
 #### **Professional Certifications**  
   
   
+**CNCF (Cloud Native Computing Foundation)**  
+CKA - Certified Kubernetes Administrator <span class="pull-right">2018</span>  
+  
 **Scaled Agile, Inc.**  
 SA, SAFe 4.0 Agilist, Scaled Agile Framework <span class="pull-right">2017</span>  
   
