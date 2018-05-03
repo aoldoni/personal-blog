@@ -1,5 +1,5 @@
 ---
-title: "Latitude Zero"
+title: "Latitude Zero (2005)"
 description: "9 songs"
 categories: [ "Music" ]
 draft: false

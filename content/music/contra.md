@@ -1,5 +1,5 @@
 ---
-title: "Contra"
+title: "Contra (2007)"
 description: "9 songs"
 categories: [ "Music" ]
 draft: false

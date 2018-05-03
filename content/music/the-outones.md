@@ -1,5 +1,5 @@
 ---
-title: "The Outones"
+title: "The Outones (2009)"
 description: "1 song"
 categories: [ "Music" ]
 draft: false
