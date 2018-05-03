@@ -1,9 +1,9 @@
 ---
-title: "Garden All (2004)"
-description: "2 songs"
+title: "Garden All"
+description: "2 songs (2004)"
 categories: [ "Music" ]
 draft: false
-date: 2002-04-02
+date: 2004-04-02
 ---
 
 <div class="player">
@@ -104,4 +104,5 @@ Backing Vocals: Rodrigo Pilatti
 Drums: Rodrigo Pilatti  
 Sem Lembrar lyrics by: Alisson/Rodrigo  
 Recording/Producer/Mixing: Alisson Oldoni  
+Year: 2004  
   

@@ -1,9 +1,9 @@
 ---
-title: "Contra (2007)"
-description: "9 songs"
+title: "Contra"
+description: "9 songs (2007)"
 categories: [ "Music" ]
 draft: false
-date: 2010-01-30
+date: 2007-01-30
 ---
 
 <div class="player">
@@ -232,10 +232,11 @@ date: 2010-01-30
 
 Guitar: Gustavo Seeling  
 Bass: Alisson Oldoni  
+Vocals: Rafael Bolda  
 Vocals on "Raros Momentos": Rafael Bolda and Rodrigo Lima (Dead Fish)  
-Vocals on all other songs: Rafael Bolda  
 Backing Vocals: Rodrigo Pilatti  
 Drums: Rodrigo Pilatti  
 All lyrics by: Gustavo Seeling  
 Recording/Producer/Mixing: Juan Manuel Perez (Giant Steps Studio)  
+Year: 2007  
   

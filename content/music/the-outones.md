@@ -1,9 +1,9 @@
 ---
-title: "The Outones (2009)"
-description: "1 song"
+title: "The Outones"
+description: "1 song (2009)"
 categories: [ "Music" ]
 draft: false
-date: 2012-04-02
+date: 2009-04-02
 ---
 
 <div class="player">
@@ -85,5 +85,6 @@ Backing Vocals: Rodrigo Pilatti
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
 Recording/Producer/Mixing: Daniel Cajal (Milkie Studio)  
+Year: 2009  
   
 

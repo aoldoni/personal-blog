@@ -1,9 +1,9 @@
 ---
-title: "The Matsunagas (2013)"
-description: "1 song"
+title: "The Matsunagas"
+description: "1 song (2013)"
 categories: [ "Music" ]
 draft: false
-date: 2015-04-02
+date: 2013-04-02
 ---
 
 <div class="player">
@@ -85,4 +85,5 @@ Backing Vocals: Rodrigo Pilatti
 Drums: Rodrigo Pilatti  
 Lyrics by: Charles Boni  
 Recording/Producer/Mixing: Gabriel Reinert (Silver Tape Studio)  
+Year: 2013  
   

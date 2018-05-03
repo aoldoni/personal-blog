@@ -1,9 +1,9 @@
 ---
-title: "Latitude Zero (2005)"
-description: "9 songs"
+title: "Latitude Zero"
+description: "9 songs (2009)"
 categories: [ "Music" ]
 draft: false
-date: 2005-04-02
+date: 2009-02-02
 ---
 
 <div class="player">
@@ -236,4 +236,5 @@ Vocals: Dado Vasconcellos
 Drums: Fábio Luiz Colzani  
 All lyrics by: Fábio Luiz Colzani  
 Recording/Producer/Mixing: Ricardo Vidal (Studio 55)  
+Year: 2009  
   
